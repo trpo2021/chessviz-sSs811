@@ -1,0 +1,6 @@
+*.o 
+main
+*.exe
+makefile~
+*.out
+chessviz

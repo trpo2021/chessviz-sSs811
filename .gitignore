@@ -2,3 +2,5 @@
 main
 *.exe
 makefile~
+*.out
+chessviz
